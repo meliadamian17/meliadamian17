@@ -55,17 +55,3 @@ vim
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meliadamian17&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<div align="center">
-
-</div>
-
-
-<div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/meliadamian17">github.com/meliadamian17</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:c026d3&height=120&section=footer" width="100%"/>
-
-</div>
