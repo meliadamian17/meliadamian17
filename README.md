@@ -59,11 +59,8 @@ vim
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div>
 
----
 
 <div align="center">
 
